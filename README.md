@@ -7,3 +7,4 @@ Public version markers for released Brick Scripts resources.
 - `brick_shops.txt`
 - `brick_outfit_stealer.txt`
 - `brick_starterpack.txt`
+- `brick_furniture_gaming.txt`
